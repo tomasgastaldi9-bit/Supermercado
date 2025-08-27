@@ -111,3 +111,7 @@ while True:
 
         case _:
             print("Opción inválida, intente nuevamente.")
+
+
+
+#cancer mal mn, posta#cancer mal mn, posta#cancer mal mn, posta#cancer mal mn, posta#cancer mal mn,
