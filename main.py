@@ -112,3 +112,4 @@ while True:
         case _:
             print("Opción inválida, intente nuevamente.")
 
+#la reputisima madre gordo down del orto
